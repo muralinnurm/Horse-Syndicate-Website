@@ -1,0 +1,6 @@
+{
+  "name": "Elysian Racing Syndicate",
+  "description": "A sleek, premium landing page for a modern thoroughbred horse racing syndicate, featuring curated horses, shared ownership insights, and enquiry onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
